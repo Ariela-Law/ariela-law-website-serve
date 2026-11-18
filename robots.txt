@@ -1,0 +1,6 @@
+# Everything is public: search engines and AI assistants (GPTBot, OAI-SearchBot, ClaudeBot, PerplexityBot,
+# Google-Extended, Applebot-Extended, ...) are all welcome. They fall under the * rule.
+User-agent: *
+Allow: /
+
+Sitemap: https://ariela-law.co.il/sitemap-index.xml
